@@ -3,7 +3,7 @@
   "displayName": "Standalone ABAP Development Extension Pack",
   "description": "Extension pack for standalone ABAP development",
   "publisher": "larshp",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "license": "MIT",
   "engines": {
     "vscode": "^1.83.0"
