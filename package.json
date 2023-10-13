@@ -3,7 +3,7 @@
   "displayName": "Standalone ABAP Development Extension Pack",
   "description": "Extension pack for standalone ABAP development",
   "publisher": "larshp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "engines": {
     "vscode": "^1.83.0"
@@ -14,9 +14,9 @@
     "ABAP"
   ],
   "repository": {
-		"type": "git",
-		"url": "https://github.com/abaplint/vscode-standalone-abap-development-pack"
-	},
+    "type": "git",
+    "url": "https://github.com/abaplint/vscode-standalone-abap-development-pack"
+  },
   "categories": [
     "Extension Packs"
   ],
