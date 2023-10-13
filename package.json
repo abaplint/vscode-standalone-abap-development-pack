@@ -21,10 +21,11 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "larshp.vscode-abap",
-    "larshp.abap-json-editor",
     "hudakf.cds",
-    "larshp.vscode-abaplint",
-    "larshp.vscode-abap-file-formats"
+    "larshp.abap-json-editor",
+    "larshp.vscode-abap-artifacts",
+    "larshp.vscode-abap-file-formats",
+    "larshp.vscode-abap",
+    "larshp.vscode-abaplint"
   ]
 }
